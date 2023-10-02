@@ -1,0 +1,33 @@
+/* Gaya untuk elemen body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+/* Gaya untuk elemen h1 */
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+/* Gaya untuk elemen table */
+table {
+  width: 50%;
+  border-collapse: collapse;
+  border: 1px solid #333;
+  border-color: red;
+}
+
+/* Gaya untuk elemen tr (baris dalam tabel) */
+tr {
+  background-color: #f2f2f2;
+}
+
+/* Gaya untuk elemen p */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
